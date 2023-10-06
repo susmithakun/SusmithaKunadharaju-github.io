@@ -4,7 +4,7 @@
 ### Education
 - M.S., Data Analytics and Information systems | Texas State University at San Marcos (_December 2022_)
                  		
-- B.E., Electrical Engineering	| Vasavi College of Engineering, India (_May 2016_)	 			        		
+- B.E., Electrical Engineering	               | Vasavi College of Engineering, India (_May 2016_)	 			        		
 
 
 ### Work Experience
@@ -49,7 +49,7 @@
 ### Database System for a Local Day Spa using DBMS SQL
 - Designed a database to track Appointments, list Products & Services, Employee Payroll, Customer Data, Purchase History for a local spa using **Microsoft SQL Server**.
 
-![DaySpa](SusmithaKunadharaju-github.io/DaySpa.jpeg)
+![DaySpa](SusmithaKunadharaju-github.io/DaySpa.JPEG)
 
 ### Used Cars Price Prediction, using Python, Machine Learning, Predictive Analysis
 - Accurate pricing ranges could be provided to buyers by predicting the price of a used cars. The goal of the project is to provide clients with a better prediction model for purchasing or selling an automobile using various machine learning techniques such as **XGBoost, Lasso Regressor, Gradient Boosting, Model Averaging and Ridge Regressor**.
