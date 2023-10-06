@@ -43,12 +43,13 @@
 ### Investment Housing Property Value Prediction, using Pyspark, Machine learning
 - Developed model to predict top five investment locations in the USA based on historic housing and income data using **Pyspark and machine learning tools**.
 
-![HousePricePRediction](https://github.com/susmithakun/SusmithaKunadharaju-github.io/blob/main/HousePricePRediction.PNG)
+![HousePricePRediction](https://github.com/susmithakun/SusmithaKunadharaju-github.io/HousePricePRediction.png)
+
 
 ### Database System for a Local Day Spa using DBMS SQL
 - Designed a database to track Appointments, list Products & Services, Employee Payroll, Customer Data, Purchase History for a local spa using **Microsoft SQL Server**.
 
-![DaySpa](https://github.com/susmithakun/SusmithaKunadharaju-github.io/blob/main/DaySpa.JPEG)
+![DaySpa](SusmithaKunadharaju-github.io/DaySpa.jpeg)
 
 ### Used Cars Price Prediction, using Python, Machine Learning, Predictive Analysis
 - Accurate pricing ranges could be provided to buyers by predicting the price of a used cars. The goal of the project is to provide clients with a better prediction model for purchasing or selling an automobile using various machine learning techniques such as **XGBoost, Lasso Regressor, Gradient Boosting, Model Averaging and Ridge Regressor**.
