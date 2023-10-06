@@ -30,11 +30,11 @@
 -	Achieved remarkable efficiency, executing the process in just 3 minutes, a significant improvement from the previous 40 hours, through the implementation of PL/SQL scripting procedures for data retrieval and modification.
 -	Spearheaded data retention using Python libraries (Pandas, Matplotlib, NumPy), machine learning algorithms, transforming raw data for Tableau-ready reporting, data optimization and enhancing insights.
 -	Effectively managed projects using JIRA and Confluence, fostering teamwork to handle incidents through collaboration, providing on-call support, optimizing task completion times, and enhancing project efficiency assessments.
-•	Automated XML-to-database and CSV policy uploads, cutting process time by 89%, from 45 to 5 minutes, showcasing dedication to innovation, efficiency, and technical excellence.
-•	Implemented a robust strategy for the normalization, correlation, and seamless integration of diverse data sources, both internal and external, to enhance data consistency and identify meaningful patterns.
-•	Engineered Tableau dashboards, visualizing underwriting, and claims data, leading to a comprehensive understanding of policy trends and claims patterns which empowered the finance team to drive business strategies in risk assessment and claims management processes, ultimately optimizing financial performance.
-•	Translated intricate client business objectives into detailed technical documentation, including test scripts for unit testing that marked attention to detail, yielded accurate recommendations that adhered to key metrics and effectively utilized GitHub version control for coding.
-•	Collaborated with stakeholders and business intelligence teams to focus on operational improvements and utilized Google Analytics for KPI tracking.
+- Automated XML-to-database and CSV policy uploads, cutting process time by 89%, from 45 to 5 minutes, showcasing dedication to innovation, efficiency, and technical excellence.
+- Implemented a robust strategy for the normalization, correlation, and seamless integration of diverse data sources, both internal and external, to enhance data consistency and identify meaningful patterns.
+- Engineered Tableau dashboards, visualizing underwriting, and claims data, leading to a comprehensive understanding of policy trends and claims patterns which empowered the finance team to drive business strategies in risk assessment and claims management processes, ultimately optimizing financial performance.
+- Translated intricate client business objectives into detailed technical documentation, including test scripts for unit testing that marked attention to detail, yielded accurate recommendations that adhered to key metrics and effectively utilized GitHub version control for coding.
+- Collaborated with stakeholders and business intelligence teams to focus on operational improvements and utilized Google Analytics for KPI tracking.
 
 
 ## Projects
