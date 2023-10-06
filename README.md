@@ -15,7 +15,6 @@
 -	Performed extensive statistical analysis using R to extract valuable insights from complex datasets, while maintaining strict data confidentiality and promoting effective team communication.
 -	Demonstrated data integrity during acquisitions to design and deploy data visualizations, data analysis and interactive dashboards using Microsoft PowerBI on the university website, leading to a 40% rise in user engagement and information retention.
 -	Used advanced DAX commands in Microsoft Power BI to create complex calculated measures for statistical modeling, revealing crucial trends and patterns in research data while ensuring compliance, effectively communicated findings that promoted collaborative engagement.
-![image](https://github.com/susmithakun/SusmithaKunadharaju-github.io/assets/101901941/10ab9e4c-ac2e-41c8-a908-e2e69de59353)
 
 
 **Data Analyst Intern @ City of Seguin (_May 2022 - August 2022_)**
@@ -24,7 +23,6 @@
 -	Leveraged Microsoft SQL Server for data extraction, transformation, and loading tasks, ensuring seamless integration, and support for data modeling within the relational databases, enhancing overall data architecture.
 -	Conducted exploratory data analysis on City of Seguin's datasets, translating intricate insights into impactful visual representations via expert use of ArcGIS widgets and charts that led to a 30% improvement in comprehending trends. 
 -	Executed data analysis on LINUX based systems by extracting and transforming diverse datasets acquired by the city, employing Apache Airflow for effective ETL processes, which contributed to the data modeling process.
-![image](https://github.com/susmithakun/SusmithaKunadharaju-github.io/assets/101901941/066a70eb-f955-4527-aaa6-d6bcf970d4eb)
 
 **Data Engineer @ Accenture (November 2016 - March 2020_)**
 -	Led comprehensive end-to-end enhancements by working with cross-functional teams and adeptly resolved critical functional and performance challenges within an insurance client's application utilizing C# programming language, resulting in an optimized user experience and an 18% reduction in application-related issues.
@@ -37,7 +35,6 @@
 •	Engineered Tableau dashboards, visualizing underwriting, and claims data, leading to a comprehensive understanding of policy trends and claims patterns which empowered the finance team to drive business strategies in risk assessment and claims management processes, ultimately optimizing financial performance.
 •	Translated intricate client business objectives into detailed technical documentation, including test scripts for unit testing that marked attention to detail, yielded accurate recommendations that adhered to key metrics and effectively utilized GitHub version control for coding.
 •	Collaborated with stakeholders and business intelligence teams to focus on operational improvements and utilized Google Analytics for KPI tracking.
-![image](https://github.com/susmithakun/SusmithaKunadharaju-github.io/assets/101901941/585e0990-0c63-4a55-afb5-b4ecc81487ab)
 
 
 ## Projects
