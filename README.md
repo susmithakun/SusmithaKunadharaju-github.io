@@ -24,7 +24,7 @@
 -	Conducted exploratory data analysis on City of Seguin's datasets, translating intricate insights into impactful visual representations via expert use of ArcGIS widgets and charts that led to a 30% improvement in comprehending trends. 
 -	Executed data analysis on LINUX based systems by extracting and transforming diverse datasets acquired by the city, employing Apache Airflow for effective ETL processes, which contributed to the data modeling process.
 
-**Data Engineer @ Accenture (November 2016 - March 2020_)**
+**Data Engineer @ Accenture (_November 2016 - March 2020_)**
 -	Led comprehensive end-to-end enhancements by working with cross-functional teams and adeptly resolved critical functional and performance challenges within an insurance client's application utilizing C# programming language, resulting in an optimized user experience and an 18% reduction in application-related issues.
 -	Initiated and executed internal process enhancements, effectively automating manual workflows, optimizing data delivery processes, and architecting a more scalable infrastructure. Implemented Python-based ETL processes, reducing data processing times by 92% ensuring seamless data extraction through MySQL, laying the foundation for a robust data schema and highly efficient data pipelines.
 -	Achieved remarkable efficiency, executing the process in just 3 minutes, a significant improvement from the previous 40 hours, through the implementation of PL/SQL scripting procedures for data retrieval and modification.
