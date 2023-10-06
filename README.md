@@ -1,7 +1,9 @@
 # Data Analyst
+#### Technical Skills: Python, R, SQL, AWS, Snowflake, Pyspark, C#, Tableau, Microsoft PowerBI, MATLAB
 
 ### Education
-- M.S., Data Analytics and Information systems | Texas State University at San Marcos (_December 2022_)								       		
+- M.S., Data Analytics and Information systems | Texas State University at San Marcos (_December 2022_)
+                 		
 - B.E., Electrical Engineering	| Vasavi College of Engineering, India (_May 2016_)	 			        		
 
 
