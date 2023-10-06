@@ -43,7 +43,7 @@
 ### Investment Housing Property Value Prediction, using Pyspark, Machine learning
 - Developed model to predict top five investment locations in the USA based on historic housing and income data using **Pyspark and machine learning tools**.
 
-![HousePricePRediction](https://github.com/susmithakun/SusmithaKunadharaju-github.io/blob/main/Images/HousePricePRediction.png)
+![HousePricePRediction](https://github.com/susmithakun/SusmithaKunadharaju-github.io/blob/main/Images/House.png)
 
 
 ### Database System for a Local Day Spa using DBMS SQL
