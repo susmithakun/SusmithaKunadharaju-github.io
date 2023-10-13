@@ -2,7 +2,7 @@
 #### Technical Skills: Python, R, SQL, AWS, Snowflake, Pyspark, C#, Tableau, Microsoft PowerBI, MATLAB
 
 <a href="https://www.linkedin.com/in/susmithakunadharaju/">
-<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-circle&logo=Linkedin&logoColor=ffffff"></a>
 
 ### Education
 - M.S., Data Analytics and Information systems | Texas State University at San Marcos (_December 2022_)
