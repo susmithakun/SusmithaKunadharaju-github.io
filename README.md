@@ -6,7 +6,7 @@
 <a href="https://github.com/susmithakun/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a>
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/susmithakun/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/susmithakun/)
 
 ### Education
 - M.S., Data Analytics and Information systems | Texas State University at San Marcos (_December 2022_)
