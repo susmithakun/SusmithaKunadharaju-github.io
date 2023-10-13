@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://github.com/susmithakun/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a>
+
 ![GitHub](https://i.stack.imgur.com/tskMh.png)
 
 ### Education
