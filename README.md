@@ -5,8 +5,6 @@
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://github.com/susmithakun/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a>
-<a href="mailto:susmithakunadharaju@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 
 ### Education
 - M.S., Data Analytics and Information systems | Texas State University at San Marcos (_December 2022_)
